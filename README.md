@@ -10,3 +10,7 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+
+AWS CodeBuild
+AWS CodePipeline
+AWS Lambda
