@@ -7,7 +7,7 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon.ico
+    - favicon.png
     - resume_oak_teppaitoon.pdf
     - styles/*
     - images/*
